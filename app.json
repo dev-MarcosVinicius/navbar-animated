@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "navbar-animated",
+    "slug": "navbar-animated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
